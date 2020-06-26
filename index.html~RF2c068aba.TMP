@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="pr-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Minha página</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li>SERVIÇOS</li>
+                <li>CLIENTES</li>
+                <li>PARCEIROS</li>
+                <li>TIME</li>
+                <li>CONTATO</li>
+            </ul>
+        </nav>
+
+        <header>
+            <h1>Minha Página</h1>
+            <p>Oferecemos os melhores serviços web</p>
+        </header>
+
+        <section id="servicos">
+            <h2>SERVIÇOS</h2> 
+            <p>
+                Oferecemos os melhores serviçços em 
+                desenvolvimento de sites e apllicativos
+                <img src="img/logo-google-gig.png" width="300px">
+            </p>
+        </section>
+        
+        <section id="clientes">
+            <h2>CLIENTES</h2>
+            <p>
+                Nossos clientes sempre ficam satisfeitos com nossos serviços
+            </p>
+
+        </section>
+        <footer>
+            <p>Desenvolvido por Emanuel Souza</p>
+        </footer>
+    </body>
+
+    
+</html>
